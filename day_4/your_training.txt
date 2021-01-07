@@ -1,0 +1,8 @@
+Each exercise should last at least 39 minutes
+Monday: bicycling
+Tuesday: football
+Wednesday: running
+Thursday: walking
+Friday: jogging
+Saturday: basketball
+Sunday: badminton
